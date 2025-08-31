@@ -4,4 +4,7 @@ RESOLUSI
 -menggunakan github
 -bikin web
 
-contoh tambahan atau edit
+
+
+
+hapus tambahan atau edit
