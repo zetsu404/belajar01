@@ -3,3 +3,5 @@ RESOLUSI
 -membuat kode kode untuk belajar
 -menggunakan github
 -bikin web
+
+contoh tambahan atau edit
